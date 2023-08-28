@@ -1,0 +1,9 @@
+ALICE_OBJ = None
+ALERT_DF =None
+USERNAME = 'Yourstocks_bot'
+PASSWORD = 'Yourstocks_bot'
+YOB = '2000'
+APP_ID = 'alice_app_id'
+SECRET_KEY = 'alice_secret_key'
+BOT_TOKEN = ''    
+BOT_CHAT_ID ='474866'
